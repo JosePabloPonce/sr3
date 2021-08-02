@@ -22,7 +22,6 @@ class Obj(object):
           )
 
 
-cube = Obj('./cube.obj')
 
 #print(cube.vertices)
 #print(cube.faces)
